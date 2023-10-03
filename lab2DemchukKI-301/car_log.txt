@@ -1,0 +1,80 @@
+Description received
+The journey has not started. Reason: no fuel
+Car refueled on 1.0E-4 liters
+The journey started at 2023-09-25T01:37:16.582202400 with average speed 60
+The journey is over at 2023/09/25 01:37:18. Refuel: -0.0 liters
+Car refueled on 10.0 liters
+The journey has not started. Reason: bad request
+The journey is over at 2023/09/25 01:37:23. Refuel: -9.990083333333333 liters
+Car refueled on 20.0 liters
+Tank capacity received
+Mileage received
+Check driving received
+Fail. Brand already defined
+Fail. Model already defined
+Fail. Color already defined
+Description received
+Gopel inserted to brand
+Gopel inserted to model
+Gopel inserted to color
+Description received
+Description received
+The journey has not started. Reason: no fuel
+Car refueled on 1.0E-4 liters
+The journey started at 2023-09-25T01:40:05.762506200 with average speed 60
+The journey is over at 2023/09/25 01:40:07. Refuel: -0.0 liters
+Car refueled on 10.0 liters
+The journey has not started. Reason: bad request
+The journey is over at 2023/09/25 01:40:12. Refuel: -9.990083333333333 liters
+Car refueled on 20.0 liters
+Tank capacity received
+Mileage received
+Check driving received
+Fail. Brand already defined
+Fail. Model already defined
+Fail. Color already defined
+Description received
+Gopel inserted to brand
+DoAstra inserted to model
+Pink inserted to color
+Description received
+Description received
+The journey has not started. Reason: no fuel
+Car refueled on 1.0E-4 liters
+The journey started at 2023-09-25T01:43:27.307642400 with average speed 60
+The journey is over at 2023/09/25 01:43:29. Refuel: -0.0 liters
+Car refueled on 10.0 liters
+The journey has not started. Reason: bad request
+The journey is over at 2023/09/25 01:43:34. Refuel: -9.990083333333333 liters
+Car refueled on 20.0 liters
+Tank capacity received
+Mileage received
+Check driving received
+Fail. Brand already defined
+Fail. Model already defined
+Fail. Color already defined
+Description received
+Gopel inserted to brand
+DoAstra inserted to model
+Pink inserted to color
+Description received
+Description received
+The journey has not started. Reason: no fuel
+Car refueled on 1.0E-4 liters
+The journey started at 2023-10-03T18:58:27.336893700 with average speed 60
+The journey is over at 2023/10/03 18:58:29. Refuel: -0.0 liters
+Car refueled on 10.0 liters
+The journey has not started. Reason: bad request
+The journey is over at 2023/10/03 18:58:34. Refuel: -9.990083333333333 liters
+Car refueled on 20.0 liters
+Tank capacity received
+Mileage received
+Check driving received
+Fail. Brand already defined
+Fail. Model already defined
+Fail. Color already defined
+Description received
+Gopel inserted to brand
+DoAstra inserted to model
+Pink inserted to color
+Description received

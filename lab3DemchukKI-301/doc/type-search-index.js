@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"KI301.Demchuk.lab3","l":"Car"},{"p":"KI301.Demchuk.lab3","l":"CargoTransport"},{"p":"<Unnamed>","l":"Main"},{"p":"KI301.Demchuk.lab3","l":"Trailer"},{"p":"KI301.Demchuk.lab3","l":"Truck"}]

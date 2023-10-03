@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"KI301.Demchuk.Lab4","l":"Calculator"},{"p":"KI301.Demchuk.Lab4","l":"CalculatorDriver"}]

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"KI301.Demchuk.lab2","l":"Car"},{"p":"KI301.Demchuk.lab2","l":"CarDriver"},{"p":"<Unnamed>","l":"Main"}]

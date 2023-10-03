@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"KI301.Demchuk.Lab4","c":"Calculator","l":"Calculate(double)"},{"p":"KI301.Demchuk.Lab4","c":"Calculator","l":"Calculator()","url":"%3Cinit%3E()"},{"p":"KI301.Demchuk.Lab4","c":"CalculatorDriver","l":"CalculatorDriver()","url":"%3Cinit%3E()"},{"p":"KI301.Demchuk.Lab4","c":"CalculatorDriver","l":"main(String[])","url":"main(java.lang.String[])"}]
